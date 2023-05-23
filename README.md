@@ -1,0 +1,5 @@
+Any user can sign up for a course created by a user type creator for the level they are at. When they are signed up for the course they are assigned the lowest level they have not completed. Courses can be set to a grade which has a specified level. Each grade has 9 levels for the 9 months that make up the normal school year in the us. Any course at or below that level will appear in a search. A course is made of 4 quests one for each week of the month ignoring a 5th week. After every 5 levels in a skill including ones the user tests out of the user is awarded a item which can be applied to their avatar. If they have a subscription they are awarded a virtual gift card as well.
+
+Skill - the skills that show up in skills page
+Course - authors 1 month long course for a given skill. This shows up for when a skill is clicked on to choose the course.
+UserCourse - when a user has enrolled in a course they have a version of course that maintains their progress. Shows in quests page.
